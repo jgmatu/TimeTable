@@ -1,0 +1,8 @@
+Grupo asignatura profesor aula planta day hbegin mbgein hend mend
+A1,Calculo,Pilar,322,1,Aulario III,friday,9,00,11,00
+A2,Circuitos,Andres,322,2,Dep II,wednesday,9,00,11,00
+A3,Algebra,Ariel,311,1,Aulario I,tuesday,11,00,13,00
+A4,CamposEM,Julio,322,2,Dep I,friday,10,00,12,00
+A5,Circuitos,Andres,322,3,Aulario III,thursday,10,20,11,30
+A6,Algebra,Ariel,310,1,Aulario III,friday,9,00,11,00
+test,test,test,0,0,TEST,monday,0,0,0,0
